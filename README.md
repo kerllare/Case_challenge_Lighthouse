@@ -5,7 +5,7 @@
 <br>
 <br>
 
- Este projeto é uma Análise de dados feita no Jupyter Notebook com visualizações no Power BI
+ Este projeto é uma Análise de dados no Jupyter Notebook com visualizações no Power BI
 
 
 ## Objetivo
@@ -116,18 +116,26 @@ Tecnologias e Dependências Utilizadas
 
 ```ps
 # Clonar o repositório
-$ git clone 
+$ git clone https://github.com/kerllare/Case_challenge_Lighthouse.git
 
 # Entrar na pasta do repositório
-$ cd banvic_data
+$ cd Case_challenge_Lighthouse
+
+# Instalar as bibliotecas (execute estes comandos em um ambiente Python):
+$ pip install pandas matplotlib seaborn
+
+# Após instalar as bibliotecas, você pode executar o projeto localmente no arquivo 'case.ipynb'.
+
+# Se você já estiver na pasta do repositório 'banvic_data', você pode prosseguir da seguinte maneira:
 
 # Instalar as bibliotecas:
 $ import pandas as pd
 $ import matplotlib.pyplot as plt
 $ import seaborn as sns
 
-# Executar o comando na parte superior do arquivo em .ipynb para que você possa rodar o projeto localmente no arquivo 'case.ipynb'.
+# Executar o comando na parte superior do arquivo '.ipynb' para que você possa rodar o projeto localmente no arquivo 'case.ipynb'.
 $ Run ou Run All
+
 ```
 <br>
 <br>
@@ -137,7 +145,7 @@ $ Run ou Run All
 
 <br>
 
-📌 Este projeto está com visualizações públicas no Power BI Web. Você pode acessar no link [Power BI]()
+📌 Este projeto está com visualizações públicas no Power BI Web. Você pode acessar no link [Power BI](https://app.powerbi.com/links/xwEDIeVb-G?ctid=b70a52ba-3613-4f1f-8f61-0a9773b4042f&pbi_source=linkShare)
 
 <br>
 <br>
