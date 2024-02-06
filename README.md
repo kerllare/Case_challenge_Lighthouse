@@ -74,8 +74,7 @@ Você também poderá enviar em anexo outros arquivos que julgar necessários  p
 Prazo
 
 ⦁	Você tem até 7 dias corridos para a entrega, contados a partir do recebimento deste desafio.
-⦁	Envie o seu relatório dentro da sua data limite para o email: selecao.lighthouse@indicium.tech
-⦁	O arquivo de entrega deve ser nomeado como: LH_EA_SEUNOME
+⦁	Envie o seu relatório dentro da sua data limite para o email.
 
 Bom trabalho!"
 
@@ -145,7 +144,12 @@ $ Run ou Run All
 
 <br>
 
-📌 Este projeto está com visualizações públicas no Power BI Web. Você pode acessar no link [Power BI](https://app.powerbi.com/links/xwEDIeVb-G?ctid=b70a52ba-3613-4f1f-8f61-0a9773b4042f&pbi_source=linkShare)
+📌 Este projeto está com visualizações públicas no Power BI Web. Você pode acessar no link [Power BI](https://app.powerbi.com/links/xwEDIeVb-G?ctid=b70a52ba-3613-4f1f-8f61-0a9773b4042f&pbi_source=linkShare).
+
+📌 Apresentação em [PowerPoint](https://docs.google.com/presentation/d/13oBHMpdvmp8XPFaqUQsO7bpeUkiXJeRl/edit#slide=id.p3).
+
+
+
 
 <br>
 <br>
