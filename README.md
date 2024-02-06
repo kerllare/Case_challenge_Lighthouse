@@ -147,7 +147,7 @@ $ Run ou Run All
 
 <br>
 
-📌 Este projeto está com visualizações públicas no Power BI Web. Você pode acessar no link [Power BI](https://app.powerbi.com/links/xwEDIeVb-G?ctid=b70a52ba-3613-4f1f-8f61-0a9773b4042f&pbi_source=linkShare).
+📌 Este projeto está com visualizações interativas no Power BI Web. Você pode acessar no link [Power BI](https://app.powerbi.com/links/xwEDIeVb-G?ctid=b70a52ba-3613-4f1f-8f61-0a9773b4042f&pbi_source=linkShare).
 
 📌 Apresentação em [PowerPoint](https://docs.google.com/presentation/d/13oBHMpdvmp8XPFaqUQsO7bpeUkiXJeRl/edit#slide=id.p3).
 
