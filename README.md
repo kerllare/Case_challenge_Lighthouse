@@ -5,7 +5,8 @@
 <br>
 <br>
 
- Este projeto é uma Análise de dados no Jupyter Notebook com visualizações no Power BI.
+ Este projeto é uma Análise de dados no Jupyter Notebook com visualizações no Power BI e  
+ 📌 Apresentação em PowerPoint.
 
  Aprimoramento e enriquecimento dos dados foram realizados, envolvendo a transformação dos dados com a criação de novas variáveis a partir das já existentes, além do tratamento de valores nulos nas colunas relevantes. Dois novos conjuntos de dados foram exportados como arquivos CSV. Insights foram obtidos por meio da exploração de dataframes e do uso de bibliotecas de visualização em Python, guiando assim o processo de análise de dados de forma informada e eficaz.
 
