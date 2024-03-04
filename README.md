@@ -6,6 +6,8 @@
 <br>
 
  Este projeto é uma Análise de dados no Jupyter Notebook com visualizações no Power BI e
+
+ 
  📌 Apresentação em [PowerPoint](https://docs.google.com/presentation/d/13oBHMpdvmp8XPFaqUQsO7bpeUkiXJeRl/edit#slide=id.p3).
 
 
